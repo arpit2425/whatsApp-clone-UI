@@ -30,12 +30,12 @@ export default class SettingsScreen extends Component {
               <Thumbnail
                 source={{
                   uri:
-                    'https://s3.amazonaws.com/uifaces/faces/twitter/matt3224/128.jpg',
+                    'https://images.pexels.com/photos/36717/amazing-animal-beautiful-beautifull.jpg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940',
                 }}
               />
             </Left>
             <Body>
-              <Text>Er Harinder Singh</Text>
+              <Text>Arpit</Text>
               <Text note>Urgent Calls Only</Text>
             </Body>
           </ListItem>

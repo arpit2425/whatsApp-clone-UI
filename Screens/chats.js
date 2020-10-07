@@ -24,7 +24,7 @@ export default class ChatScreen extends Component {
               <Thumbnail
                 source={{
                   uri:
-                    'https://s3.amazonaws.com/uifaces/faces/twitter/mauriolg/128.jpg',
+                    'https://images.pexels.com/photos/879474/pexels-photo-879474.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500',
                 }}
               />
             </Left>

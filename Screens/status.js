@@ -28,7 +28,7 @@ export default class StatusScreen extends Component {
               <Thumbnail
                 source={{
                   uri:
-                    'https://s3.amazonaws.com/uifaces/faces/twitter/matt3224/128.jpg',
+                    'https://images.pexels.com/photos/36717/amazing-animal-beautiful-beautifull.jpg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940',
                 }}
               />
               <Icon
@@ -99,7 +99,7 @@ export default class StatusScreen extends Component {
               <Thumbnail
                 source={{
                   uri:
-                    'https://s3.amazonaws.com/uifaces/faces/twitter/mauriolg/128.jpg',
+                    'https://images.pexels.com/photos/879474/pexels-photo-879474.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500',
                 }}
               />
             </Left>
