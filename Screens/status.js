@@ -52,12 +52,12 @@ export default class StatusScreen extends Component {
               <Thumbnail
                 source={{
                   uri:
-                    'https://s3.amazonaws.com/uifaces/faces/twitter/naitanamoreno/128.jpg',
+                    'https://images.pexels.com/photos/2010877/pexels-photo-2010877.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500',
                 }}
               />
             </Left>
             <Body>
-              <Text>Mohammad</Text>
+              <Text>Ankita</Text>
               <Text note>Today, 11:24 pm</Text>
             </Body>
           </ListItem>
@@ -66,12 +66,12 @@ export default class StatusScreen extends Component {
               <Thumbnail
                 source={{
                   uri:
-                    'https://s3.amazonaws.com/uifaces/faces/twitter/vicivadeline/128.jpg',
+                    'https://images.pexels.com/photos/3711677/pexels-photo-3711677.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500',
                 }}
               />
             </Left>
             <Body>
-              <Text>Brian</Text>
+              <Text>Anshita</Text>
               <Text note>Today, 10:12 pm</Text>
             </Body>
           </ListItem>
@@ -85,7 +85,7 @@ export default class StatusScreen extends Component {
               />
             </Left>
             <Body>
-              <Text>Michael</Text>
+              <Text>Shashank</Text>
               <Text note>Today, 10:00 pm</Text>
             </Body>
           </ListItem>
@@ -104,7 +104,7 @@ export default class StatusScreen extends Component {
               />
             </Left>
             <Body>
-              <Text>Mohammad</Text>
+              <Text>Nikhil</Text>
               <Text note>Yesterday, 08:33 pm</Text>
             </Body>
           </ListItem>
